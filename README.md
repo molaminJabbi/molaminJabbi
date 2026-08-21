@@ -73,7 +73,7 @@ I'm a passionate data enthusiast dedicated to uncovering insights from data and 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/molaminjabbi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://molaminjabbi.github.io/MyPortfolio/)
 
 </div>
 
