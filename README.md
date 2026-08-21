@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-I'm a passionate data professional dedicated to uncovering insights from data and building intelligent solutions. I specialize in transforming raw data into actionable intelligence and developing machine learning models that drive business decisions. I'm committed to continuous learning and exploring innovative approaches to data science and analytics.
+I'm a passionate data enthusiast dedicated to uncovering insights from data and building intelligent solutions. I learning in transforming raw data into actionable intelligence and developing simple machine learning models that drive business decisions. I'm committed to continous learning, growing, exploring innovative approaches and pushing the boundaries of what's possible with data.
 
 - 📈 Passionate about **data-driven decision making** and **statistical analysis**
 - 🔍 Experienced in **data cleaning**, **visualization**, and **exploratory analysis**
@@ -20,18 +20,15 @@ I'm a passionate data professional dedicated to uncovering insights from data an
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 **Data & Analytics:**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 **Visualization:**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
 **Tools & Others:**
@@ -64,10 +61,10 @@ I'm a passionate data professional dedicated to uncovering insights from data an
 
 ## 📈 Current Focus
 
-- 🔭 Exploring **Advanced Machine Learning** techniques
-- 📖 Deepening knowledge in **Data Engineering** and **Big Data**
+- 🔭 Exploring **Machine Learning** techniques
+- 📖 Deepening knowledge in **Data modeling** and **Economic Analystics**
 - 📊 Building **predictive models** and **analytics dashboards**
-- 🧠 Experimenting with **Deep Learning** and **NLP**
+- 🧠 Experimenting with **AI** and **LLM**
 
 ---
 
