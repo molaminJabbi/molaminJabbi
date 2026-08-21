@@ -1,41 +1,42 @@
 # 👋 Hey there, I'm molaminJabbi!
 
-### 🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer
+### 📊 Data Analyst | Data Scientist | Analytics Explorer
 
 ---
 
 ## 💫 About Me
 
-I'm a passionate developer who loves building innovative solutions and contributing to the open-source community. I'm constantly learning, growing, and pushing the boundaries of what's possible with code.
+I'm a passionate data professional dedicated to uncovering insights from data and building intelligent solutions. I specialize in transforming raw data into actionable intelligence and developing machine learning models that drive business decisions. I'm committed to continuous learning and exploring innovative approaches to data science and analytics.
 
-- 🎯 Passionate about **clean code** and **best practices**
-- 🌍 Believer in **open-source** development
-- 📚 Lifelong **learner** exploring cutting-edge technologies
-- 🤝 Always excited to **collaborate** on interesting projects
+- 📈 Passionate about **data-driven decision making** and **statistical analysis**
+- 🔍 Experienced in **data cleaning**, **visualization**, and **exploratory analysis**
+- 🤖 Enthusiast for **machine learning** and **predictive modeling**
+- 📚 Lifelong **learner** exploring cutting-edge technologies in AI/ML
+- 🤝 Always excited to **collaborate** on data-driven projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-**Frontend:**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**Data & Analytics:**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-**Backend:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+**Visualization:**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
 **Tools & Others:**
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -55,18 +56,18 @@ I'm a passionate developer who loves building innovative solutions and contribut
 ## 🎨 Featured Projects
 
 <!-- You can add your featured projects here -->
-- 🔗 [Project Name](link) - Brief description
-- 🔗 [Project Name](link) - Brief description
-- 🔗 [Project Name](link) - Brief description
+- 📊 [Project Name](link) - Data analysis project description
+- 🤖 [Project Name](link) - Machine learning model description
+- 📈 [Project Name](link) - Analytics dashboard description
 
 ---
 
 ## 📈 Current Focus
 
-- 🔭 Exploring **Web3 & Blockchain**
-- 📖 Deepening knowledge in **System Design**
-- 🎯 Building **scalable applications**
-- 🤖 Experimenting with **AI/ML**
+- 🔭 Exploring **Advanced Machine Learning** techniques
+- 📖 Deepening knowledge in **Data Engineering** and **Big Data**
+- 📊 Building **predictive models** and **analytics dashboards**
+- 🧠 Experimenting with **Deep Learning** and **NLP**
 
 ---
 
