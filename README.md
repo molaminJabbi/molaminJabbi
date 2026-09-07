@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-I'm a passionate data enthusiast dedicated to uncovering insights from data and building intelligent solutions. I learning in transforming raw data into actionable intelligence and developing simple machine learning models that drive business decisions. I'm committed to continous learning, growing, exploring innovative approaches and pushing the boundaries of what's possible with data.
+I'm a passionate data enthusiast dedicated to uncovering insights from data and building intelligent solutions. I learning in transforming raw data into actionable intelligence and developing simple m[...]
 
 - 📈 Passionate about **data-driven decision making** and **statistical analysis**
 - 🔍 Experienced in **data cleaning**, **visualization**, and **exploratory analysis**
@@ -29,6 +29,7 @@ I'm a passionate data enthusiast dedicated to uncovering insights from data and 
 
 **Visualization:**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-44B78B?style=flat&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
 **Tools & Others:**
